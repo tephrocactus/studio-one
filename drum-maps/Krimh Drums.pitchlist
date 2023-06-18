@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList title="Krimh Drums">
+	<Music.PitchName pitch="24" name="Kick Main" color="FFFF5E2A" scorePitch="65"/>
+	<Music.PitchName pitch="23" name="Kick 2" color="FFFF5E2A" scorePitch="64"/>
+	<Music.PitchName pitch="26" name="Snare Hit" color="FF2A2AFF" scorePitch="72"/>
+	<Music.PitchName pitch="25" name="Snare Off-center" color="FF2A2AFF" scorePitch="72"/>
+	<Music.PitchName pitch="27" name="Snare Flam" color="FF2A2AFF" scorePitch="72"/>
+	<Music.PitchName pitch="29" name="Snare No Wires" color="FF2A2AFF" scorePitch="72"/>
+	<Music.PitchName pitch="30" name="Snare Sidestick" color="FF2A2AFF" scorePitch="72" notehead="nhdX"/>
+	<Music.PitchName pitch="33" name="Tom 1" color="FFFFAD2A" scorePitch="76"/>
+	<Music.PitchName pitch="34" name="Tom 2" color="FFFFAD2A" scorePitch="74"/>
+	<Music.PitchName pitch="35" name="Tom 3" color="FFFFAD2A" scorePitch="71"/>
+	<Music.PitchName pitch="36" name="Tom 4" color="FFFFAD2A" scorePitch="69"/>
+	<Music.PitchName pitch="37" name="Tom FX" color="FFFFAD2A" scorePitch="67"/>
+	<Music.PitchName pitch="62" name="Ride Main" color="FFB2FF2A" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="61" name="Ride Bell" color="FFB2FF2A" scorePitch="77" notehead="nhDi"/>
+	<Music.PitchName pitch="63" name="Ride Crash" color="FFB2FF2A" scorePitch="88" notehead="nhdX"/>
+	<Music.PitchName pitch="42" name="Hat Closed" color="FF54FC1D" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="43" name="Hat Open 1" color="FF54FC1D" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="44" name="Hat Open 2" color="FF54FC1D" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="45" name="Hat Open 3" color="FF54FC1D" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="46" name="Hat Open 4" color="FF54FC1D" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="47" name="Hat Open 5" color="FF54FC1D" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="41" name="Hat Tip Closed" color="FF54FC1D" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="50" name="Hat Tip Open" color="FF54FC1D" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="48" name="Hat Pedal" color="FF54FC1D" scorePitch="65" notehead="nhdX"/>
+	<Music.PitchName pitch="49" name="Hat Pedal Open" color="FF2AFC38" scorePitch="65" notehead="nhdX"/>
+	<Music.PitchName pitch="17" name="Hat Pedal CC" color="FF54FC1D" scorePitch="65" notehead="nhdX"/>
+	<Music.PitchName pitch="82" name="X-Hat Closed" color="FF2AFC38" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="70" name="X-Hat Closed" color="FF2AFC38" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="83" name="X-Hat Open 1" color="FF2AFC38" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="84" name="X-Hat Open 2" color="FF2AFC38" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="85" name="X-Hat Open 3" color="FF2AFC38" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="86" name="X-Hat Open 4" color="FF2AFC38" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="87" name="X-Hat Open 5" color="FF2AFC38" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="88" name="X-Hat Open 6" color="FF2AFC38" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="22" name="Kick Main" color="FFFF5E2A" scorePitch="62"/>
+	<Music.PitchName pitch="52" name="Crash 1 Left Hit" color="FF2AFFE5" scorePitch="81" notehead="nhdX"/>
+	<Music.PitchName pitch="53" name="Crash 1 Left Choke" color="FF2AFFE5" scorePitch="79" notehead="nhdX"
+	                 technique="stac"/>
+	<Music.PitchName pitch="54" name="Crash 1 Right Hit" color="FF2AFFE5" scorePitch="83" notehead="nhdX"/>
+	<Music.PitchName pitch="55" name="Crash 1 Right Choke" color="FF2AFFE5" scorePitch="81" notehead="nhdX"
+	                 technique="stac"/>
+	<Music.PitchName pitch="56" name="Crash 2 Left Hit" color="FF2AFFE5" scorePitch="84" notehead="nhdX"/>
+	<Music.PitchName pitch="57" name="Crash 2 Left Choke" color="FF2AFFE5" scorePitch="83" notehead="nhdX"
+	                 technique="stac"/>
+	<Music.PitchName pitch="58" name="Crash 2 Right Hit" color="FF2AFFE5" scorePitch="86" notehead="nhdX"/>
+	<Music.PitchName pitch="59" name="Crash 2 Right Choke" color="FF2AFFE5" scorePitch="84" notehead="nhdX"
+	                 technique="stac"/>
+	<Music.PitchName pitch="73" name="Splash 1 Hit" color="FFFF2AE2" scorePitch="91" notehead="nhDi"/>
+	<Music.PitchName pitch="74" name="Splash 1 Choke" color="FFFF2AE2" scorePitch="91" notehead="nhDi"/>
+	<Music.PitchName pitch="75" name="Splash 2 Hit" color="FFFF2AE2" scorePitch="91" notehead="nhDi"/>
+	<Music.PitchName pitch="76" name="Splash 2 Choke" color="FFFF2AE2" scorePitch="91" notehead="nhDi"/>
+	<Music.PitchName pitch="65" name="China Left Hit" color="FF2ACAFF" scorePitch="91" notehead="nhCX"/>
+	<Music.PitchName pitch="66" name="China Left Choke" color="FF2ACAFF" scorePitch="91" notehead="nhCX"/>
+	<Music.PitchName pitch="67" name="China Right Hit" color="FF2ACAFF" scorePitch="91" notehead="nhCX"/>
+	<Music.PitchName pitch="68" name="China Right Choke" color="FF2ACAFF" scorePitch="91" notehead="nhCX"/>
+</Music.PitchNameList>
